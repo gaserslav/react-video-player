@@ -19,3 +19,5 @@ function Index(){
     
     export default Index;
 ```
+
+*width* and *height* are size parametars (css parametars so it can be 50px 10% 20vh 4vw)
