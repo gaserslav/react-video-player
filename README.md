@@ -25,4 +25,4 @@ function Index(){
 video should look something like this ...
 
 
-[!](https://ibb.co/fq5DLtS)
+![](https://ibb.co/fq5DLtS)
