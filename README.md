@@ -23,3 +23,6 @@ function Index(){
 *width* and *height* are size parametars (its css parametars so it can be 50px/10%/20vh/4vw) and *src* is source parameter
 
 video should look something like this ...
+
+
+(!)[https://ibb.co/fq5DLtS]
