@@ -1,2 +1,2 @@
-# <center> react-video-player</center>
+# react-video-player
  react-video-player
